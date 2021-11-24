@@ -10,45 +10,76 @@ Some screenshots here !
 
 ## 1. Introduction
 
-### 1.1. What is Conket ?
+1.1. What is Conket ?
 
-### 1.2. What are some of Conket's features ?
+1.2. What are some of Conket's features ?
 
-## 2. Quickstart
+1.3. Architecture overview
+- Architecture image
+- Description of components in this architecture
 
-### 2.1. How to install it ?
+## 2. Installation
 
-2.1.1. Install binary from package manager for various OS (windows, linux, Mac OS)
+2.1. Install binary from package manager for various OS (windows, linux, Mac OS)
 
-2.1.2. Build from source 
+2.2. Start with docker image
 
-### 2.2. Start your first example
+2.3. Build from source
 
-### 2.3. Some more usage examples
+## 3. Quickstart
 
-### 2.4. Links for references, tutorials and documentations
+3.1. Usage 
 
-## 3. Developing Conket
+- Start server in dev mode and production mode
+- Run your first example
+- Basic examples
 
-### 3.1. How to start a local development server ?
+3.2. More basic and advanced examples
 
-3.1.1. Start directly from binary
+3.3. Links for references, tutorials and documentations
 
-3.1.2. Start with docker image 
+## 4. Developing Conket
 
-3.1.3. Start with docker-compose
+4.1. How to start a local development server ?
 
-3.1.4. Setup a local development cluster
+4.2. Start with binary in dev mode
 
-### 3.2. How to run tests (unit tests, integration tests) ?
+4.3. Start with docker-compose cluster
 
-## 8. Community 
+4.4. Setup a local development cluster with ansible
 
+4.5. How to run tests (unit tests, integration tests) ?
+
+## 5. Configurations
+
+- Environment variables 
+- Yaml config files 
+
+## 6. Technical details
+
+All technical details related to the project.
+
+Some examples:
+- How to use Conket SDK for common languages: Javascript, Python, PHP
+- Monitoring and logging
+- Code examples
+- Benchmarks
+- Release cycle
+
+## 7. Frequently asked questions 
+
+- Why is this different with xxx ?
+
+## 8. Common issues and troubleshooting
+
+## 9. Community 
+
+- Mailing lists
 - Slack channel 
 - Forum 
 - Twitter
 - Stackoverflow
 
-## 9. Contributing
+## 10. Contributing
 
-## 10. License
+## 11. License
