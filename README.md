@@ -1,6 +1,6 @@
 For example you're developing a service named Conket, below is the layout for README.md file of your service Conket
 
-# Layout
+# Example README layout
 
 Official documentation link here !
 
